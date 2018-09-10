@@ -1,1 +1,1 @@
-worker: node tg3.js
+worker: node nay4.js
